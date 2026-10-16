@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "embedded",
+  "dolt_database": "paseos",
+  "project_id": "efd3731e-7581-49c8-a45a-b493f6feb42d"
+}
